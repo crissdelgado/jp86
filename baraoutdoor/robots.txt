@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.baraoutdoor.com/7-wisata-di-jogja-yang-hits-di-kalangan-anak-muda/sitemap.xml
